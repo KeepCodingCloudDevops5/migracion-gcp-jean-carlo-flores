@@ -37,11 +37,11 @@ variable "databases" {
 
 `
 
-Ejercicio 3
+# Ejercicio 3
 
 La tercera parte fue generada manualmente puesto que no encontré un módulo para generar la imagen desde terraform.
 
-Ejercicio 4
+# Ejercicio 4
 
 Todo el código se encuentra en app_engine.tf
 De igual manera desde el directorio root se puede ejecutar terraform init, plan y apply para desplegar los recursos necesarios.
